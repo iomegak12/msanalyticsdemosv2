@@ -6498,11 +6498,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\MessageSender.csproj",
+      "projectUniqueName": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\MessageSender.csproj",
       "projectName": "MessageSender",
-      "projectPath": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\MessageSender.csproj",
+      "projectPath": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\MessageSender.csproj",
       "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
-      "outputPath": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\obj\\",
+      "outputPath": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\MessageSender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,10 @@
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\bin\release\netcoreapp2.2\MessageSender.deps.json
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\bin\release\netcoreapp2.2\MessageSender.runtimeconfig.json
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\bin\release\netcoreapp2.2\MessageSender.runtimeconfig.dev.json
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\bin\release\netcoreapp2.2\MessageSender.dll
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\bin\release\netcoreapp2.2\MessageSender.pdb
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\obj\release\netcoreapp2.2\MessageSender.csprojAssemblyReference.cache
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\obj\release\netcoreapp2.2\MessageSender.AssemblyInfoInputs.cache
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\obj\release\netcoreapp2.2\MessageSender.AssemblyInfo.cs
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\obj\release\netcoreapp2.2\MessageSender.dll
+C:\0-Azure Analytics\demonstrations\msanalyticsdemosv2\SensorTelemetryDataAPIServicesSolution\messagesender\obj\release\netcoreapp2.2\MessageSender.pdb

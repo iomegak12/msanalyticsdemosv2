@@ -13648,11 +13648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\SensorTelemetryDataAPIServices.csproj",
+      "projectUniqueName": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\SensorTelemetryDataAPIServices.csproj",
       "projectName": "SensorTelemetryDataAPIServices",
-      "projectPath": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\SensorTelemetryDataAPIServices.csproj",
+      "projectPath": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\SensorTelemetryDataAPIServices.csproj",
       "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
-      "outputPath": "E:\\Training Demonstrations\\0-AzureAnalytics0919-US\\Demonstrations\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\obj\\",
+      "outputPath": "C:\\0-Azure Analytics\\demonstrations\\msanalyticsdemosv2\\SensorTelemetryDataAPIServicesSolution\\SensorTelemetryDataAPIServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
