@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SimpleStrMsgSender": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EHConnectionString": "Endpoint=sb://iomegaeventhubs.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=MmBlE99P4grgN3G1ehx3OrqdCqbj6FqZ5jdCvYNMH1I=",
+        "EHPath": "sensormessages"
+      }
+    }
+  }
+}
